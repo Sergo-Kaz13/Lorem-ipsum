@@ -1,4 +1,4 @@
-[!lorem ipsum](./lorem-ipsum.png)
+![lorem ipsum](./lorem-ipsum.png)
 
 ### How to create your own Lorem ipsum
 
